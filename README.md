@@ -5,7 +5,7 @@
 ソースファイルの「public」配下に「article」というフォルダを作り階層下げをした上で「public」をドキュメントルートに指定して下さい。  
 
 ## 使用言語やライブラリなど  
-html,css
+html,css  
 webpack,gulp,browserSync,font awesome  
 
 ## 内容の説明
